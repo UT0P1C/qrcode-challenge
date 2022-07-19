@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![screenshot](./Screenshot.jpg)
+![screenshot](https://github.com/UT0P1C/qrcode-challenge/blob/main/Screenshot.png)
 
 ## My process
 
@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Vinicius](https://ut0p1c.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/UT0P1C)
+- Frontend Mentor - [@UT0P1C](https://www.frontendmentor.io/profile/UT0P1C)
 - Twitter - [@esq1z0](https://www.twitter.com/esq1z0)
